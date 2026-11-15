@@ -1,3 +1,6 @@
+# Documentation et UML
+docs/
+
 # Environnement et secrets
 .env
 .env.backup
