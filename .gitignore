@@ -1,5 +1,6 @@
-# Documentation et UML
+# Documentation et UML (Strictement ignoré - ne jamais pusher sur GitHub)
 docs/
+docs
 
 # Environnement et secrets
 .env
