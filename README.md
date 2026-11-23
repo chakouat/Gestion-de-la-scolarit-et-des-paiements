@@ -1,4 +1,4 @@
-# ZEN — Application de gestion de la scolarité et des paiements
+# Application de gestion de la scolarité et des paiements
 
 Application web dynamique développée dans le cadre du module **Programmation Web Dynamique (S5 IL)** à l'Université Ibn Zohr, Faculté des Sciences Agadir (Centre d'Excellence IT).
 
